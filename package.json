@@ -1,0 +1,19 @@
+{
+  "name": "NoMatchJobs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nmupdates.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-unique": "^0.3.2",
+    "csvtojson": "^2.0.10",
+    "nodejs-file-downloader": "^4.9.3",
+    "smartsheet": "^2.126.0",
+    "smartsheet-delete-bulk-rows": "0.0.1"
+  }
+}
